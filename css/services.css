@@ -1,0 +1,60 @@
+#heading1{
+    text-align: center;
+}
+.paragraph{
+    font-family: "Berlin Sans FB";
+    font-size: 20px;
+}
+#mydiv{
+    background-color: #14b7dc;
+    margin: 50px;
+    padding: 30px;
+}
+#mydiv h1{
+    color: white;
+    text-align: center;
+
+}
+#mydiv2{
+    display: flex;
+    background-color: #9b9bbc;
+    margin: 50px;
+    padding: 30px;
+    color: white;
+
+}
+#mydiv2 img{
+    margin-right: 30px;
+    border-radius: 1000px;
+
+}
+#maindiv{
+    display: flex;
+    margin: 50px;
+    background-color: lightgrey;
+}
+#advert{
+    background-color: #f12c2c;
+    color: white;
+    margin-right: 20px;
+    padding:30px ;
+    box-shadow: 12px 8px 8px 4px gray;
+}
+#accounts{
+    background-color: darkblue;
+    color: white;
+    margin-right: 50px;
+    padding: 30px;
+    box-shadow: 12px 8px 8px 4px gray;
+
+}
+#pay{
+    background-color: darkslategray;
+    color: white;
+    margin-right: 50px;
+    padding:30px ;
+    box-shadow: 12px 8px 8px 4px gray;
+}
+#advert:hover,#accounts:hover,#pay:hover{
+    background-color: gray;
+}

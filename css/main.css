@@ -1,0 +1,16 @@
+h1{
+    color: grey;
+    text-align: center;
+    font-size: 45px;
+    background-color: black;
+    line-height: 100px;
+    text-shadow: 12px 4px 13px blueviolet;
+
+}
+h1:hover{
+    background-color: crimson;
+
+}
+#background{
+    background-image: url('back.jpg');
+}
